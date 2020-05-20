@@ -1,0 +1,444 @@
+-- Merging decision tree log ---
+activity#sample.admob.SampleAdmobActivity
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:14:3-19:14
+	android:configChanges
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [ti:admob:5.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/687dbb9697512a2de5aeb86b635ad865/AndroidManifest.xml:2:1-11:12
+MERGED from [com.appcelerator:aca:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/520b249599e9a8ede557ab54cbb7d241/AndroidManifest.xml:2:1-13:12
+MERGED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:2:1-19:12
+MERGED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:2:1-39:12
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2bd78c683e41408797cee6259182c6a7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5c031e5b3b5ac8f7c44603d6a0165c4a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.ads.consent:consent-library:1.0.8] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb72f1f5c636ea8a9f4eb9007203e2fd/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/3327ae1ffa75a2d48533a532b7d62931/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1f2765ebfdc2300863b3ed014407bada/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.ads.mediation:facebook:5.6.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/82e144cd81bc25e064bba255e47b6bfc/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:2:1-41:12
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/66078d1fe2243e0cc83910c0c43dbf17/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6af7722c044e8597f65d394bfe50726d/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9c8ebd0ec8302f566c9c16b66cf5f1fe/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/65bcc48d5f5fc393ca1be52b26b318f8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7e735ca38e04f77b8b544856d0eb50f0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0a542aa224ab5dbea0ae28b30bd52b0a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9b48a2eeb7d775bac57d3beca99a75bd/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/361c4926ec93dc1e92f6b2aa3db27bf7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7d9ab5823012cd2bf8250f0b7f3840a1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/15a6b34bfd1c6ffa7a3c34da060ca374/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/45297305945294d4d8abff3aabf28435/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/30d85bd91d44cbfbbce08a4ceb28bef1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/271fdd7b6209137e0dc7d64cb9811333/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/499efca29d188f3034e2e3c2a1bc9d28/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/98024718d1de68c6f27554b2bc89b97e/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4efe29399163ca90827fbcb856ff8f84/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/121bd09c1515e304b0aee3ee3ad18392/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/208d277d0afe1a0285b70dde3a19a9f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/d834c5a032f1bf73a15a56543602c29f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/f4491133fa22e3de40161a000a3de4e3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c4b1f4800f3e706ee3a98290448a0922/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dc4767d60fe80af6ffc4e36a2dfc935b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03666c87a51e2adc30407b7681a338ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6fd0799ec54ba80fd76f8d6422006d6a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9240b603ba5acb0f02b2a08cd31ef6df/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb616e7a1ce20a1f8f3d886d2c0cf2f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9e4dbf25488570cb48eab815a4000eec/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/fa251dea7529ec17e5794010112a0b22/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/76b395a7d8f3148fb50eadd9d7ae6ff9/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1ea3b93caec76b80fd1d1b4cf6547acf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03f33b083a2269895abdb396d805540c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e70386fa993f6995f9086d45cff7c009/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5d31810c0aa21a08146b021e5a33c008/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e3d16ee3d10cdbd06a2d535942a27e72/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0b5e6cbf589e1e6d5bb7a7fc3b6736d8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c3fc78f2b4ace9b0d71147ac4483e4ca/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/97f5044f2e7ba3a36fd19726abee0f05/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2c8edd943a40f40689552d37365e432e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/32b42eb4b895dcb5dbcb8c9d5b705ad4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4514ee6d378ba0a0a6e8cb66f7f8df75/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:2:1-6:16
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:2:1-6:16
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:2:1-6:16
+	package
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:117-139
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:11-57
+	xmlns:android
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:58-116
+	android:versionCode
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:140-163
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+		REJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:2:140-163
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+	tools:replace
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:2:164-199
+uses-permission#android.permission.INTERNET
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:4:2-63
+MERGED from [com.appcelerator:aca:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/520b249599e9a8ede557ab54cbb7d241/AndroidManifest.xml:11:5-67
+MERGED from [com.appcelerator:aca:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/520b249599e9a8ede557ab54cbb7d241/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:11:5-67
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:4:19-61
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:6:2-72
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:6:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:8:2-75
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:12:5-79
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:8:19-73
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:10:2-77
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:10:19-75
+application
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+MERGED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+MERGED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:2-23:16
+MERGED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:13:5-17:19
+MERGED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:13:5-17:19
+MERGED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:9:5-37:19
+MERGED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:9:5-37:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5c031e5b3b5ac8f7c44603d6a0165c4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5c031e5b3b5ac8f7c44603d6a0165c4a/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1f2765ebfdc2300863b3ed014407bada/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1f2765ebfdc2300863b3ed014407bada/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:14:5-39:19
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:14:5-39:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6af7722c044e8597f65d394bfe50726d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6af7722c044e8597f65d394bfe50726d/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9c8ebd0ec8302f566c9c16b66cf5f1fe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9c8ebd0ec8302f566c9c16b66cf5f1fe/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/65bcc48d5f5fc393ca1be52b26b318f8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/65bcc48d5f5fc393ca1be52b26b318f8/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7e735ca38e04f77b8b544856d0eb50f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7e735ca38e04f77b8b544856d0eb50f0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0a542aa224ab5dbea0ae28b30bd52b0a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0a542aa224ab5dbea0ae28b30bd52b0a/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/76b395a7d8f3148fb50eadd9d7ae6ff9/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/76b395a7d8f3148fb50eadd9d7ae6ff9/AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4514ee6d378ba0a0a6e8cb66f7f8df75/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4514ee6d378ba0a0a6e8cb66f7f8df75/AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:48-76
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:48-76
+	android:icon
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:15-47
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:15-47
+	android:theme
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:151-189
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:151-189
+	android:usesCleartextTraffic
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:115-150
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:115-150
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:77-114
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml:12:77-114
+uses-sdk
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+MERGED from [ti:admob:5.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/687dbb9697512a2de5aeb86b635ad865/AndroidManifest.xml:7:5-9:41
+MERGED from [ti:admob:5.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/687dbb9697512a2de5aeb86b635ad865/AndroidManifest.xml:7:5-9:41
+MERGED from [com.appcelerator:aca:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/520b249599e9a8ede557ab54cbb7d241/AndroidManifest.xml:7:5-9:41
+MERGED from [com.appcelerator:aca:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/520b249599e9a8ede557ab54cbb7d241/AndroidManifest.xml:7:5-9:41
+MERGED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:7:5-9:41
+MERGED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:7:5-9:41
+MERGED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:5:5-7:41
+MERGED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2bd78c683e41408797cee6259182c6a7/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2bd78c683e41408797cee6259182c6a7/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.material:material:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5c031e5b3b5ac8f7c44603d6a0165c4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5c031e5b3b5ac8f7c44603d6a0165c4a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.ads.consent:consent-library:1.0.8] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb72f1f5c636ea8a9f4eb9007203e2fd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.ads.consent:consent-library:1.0.8] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb72f1f5c636ea8a9f4eb9007203e2fd/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/3327ae1ffa75a2d48533a532b7d62931/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/3327ae1ffa75a2d48533a532b7d62931/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1f2765ebfdc2300863b3ed014407bada/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1f2765ebfdc2300863b3ed014407bada/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:20:5-44
+MERGED from [com.google.ads.mediation:facebook:5.6.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/82e144cd81bc25e064bba255e47b6bfc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.ads.mediation:facebook:5.6.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/82e144cd81bc25e064bba255e47b6bfc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/66078d1fe2243e0cc83910c0c43dbf17/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/66078d1fe2243e0cc83910c0c43dbf17/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6af7722c044e8597f65d394bfe50726d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6af7722c044e8597f65d394bfe50726d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9c8ebd0ec8302f566c9c16b66cf5f1fe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9c8ebd0ec8302f566c9c16b66cf5f1fe/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/65bcc48d5f5fc393ca1be52b26b318f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/65bcc48d5f5fc393ca1be52b26b318f8/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7e735ca38e04f77b8b544856d0eb50f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7e735ca38e04f77b8b544856d0eb50f0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0a542aa224ab5dbea0ae28b30bd52b0a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0a542aa224ab5dbea0ae28b30bd52b0a/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9b48a2eeb7d775bac57d3beca99a75bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9b48a2eeb7d775bac57d3beca99a75bd/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/361c4926ec93dc1e92f6b2aa3db27bf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/361c4926ec93dc1e92f6b2aa3db27bf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7d9ab5823012cd2bf8250f0b7f3840a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/7d9ab5823012cd2bf8250f0b7f3840a1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/15a6b34bfd1c6ffa7a3c34da060ca374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/15a6b34bfd1c6ffa7a3c34da060ca374/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/45297305945294d4d8abff3aabf28435/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/45297305945294d4d8abff3aabf28435/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/30d85bd91d44cbfbbce08a4ceb28bef1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/30d85bd91d44cbfbbce08a4ceb28bef1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/271fdd7b6209137e0dc7d64cb9811333/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/271fdd7b6209137e0dc7d64cb9811333/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/499efca29d188f3034e2e3c2a1bc9d28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/499efca29d188f3034e2e3c2a1bc9d28/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/98024718d1de68c6f27554b2bc89b97e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/98024718d1de68c6f27554b2bc89b97e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4efe29399163ca90827fbcb856ff8f84/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4efe29399163ca90827fbcb856ff8f84/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/121bd09c1515e304b0aee3ee3ad18392/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/121bd09c1515e304b0aee3ee3ad18392/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/208d277d0afe1a0285b70dde3a19a9f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/208d277d0afe1a0285b70dde3a19a9f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/d834c5a032f1bf73a15a56543602c29f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/d834c5a032f1bf73a15a56543602c29f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/f4491133fa22e3de40161a000a3de4e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/f4491133fa22e3de40161a000a3de4e3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c4b1f4800f3e706ee3a98290448a0922/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c4b1f4800f3e706ee3a98290448a0922/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dc4767d60fe80af6ffc4e36a2dfc935b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dc4767d60fe80af6ffc4e36a2dfc935b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03666c87a51e2adc30407b7681a338ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03666c87a51e2adc30407b7681a338ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6fd0799ec54ba80fd76f8d6422006d6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6fd0799ec54ba80fd76f8d6422006d6a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9240b603ba5acb0f02b2a08cd31ef6df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9240b603ba5acb0f02b2a08cd31ef6df/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0c7acb9d9c0d0c6e17f6ee0bf5391ad0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb616e7a1ce20a1f8f3d886d2c0cf2f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/bb616e7a1ce20a1f8f3d886d2c0cf2f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9e4dbf25488570cb48eab815a4000eec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/9e4dbf25488570cb48eab815a4000eec/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/fa251dea7529ec17e5794010112a0b22/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/fa251dea7529ec17e5794010112a0b22/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/76b395a7d8f3148fb50eadd9d7ae6ff9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/76b395a7d8f3148fb50eadd9d7ae6ff9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1ea3b93caec76b80fd1d1b4cf6547acf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/1ea3b93caec76b80fd1d1b4cf6547acf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03f33b083a2269895abdb396d805540c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/03f33b083a2269895abdb396d805540c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e70386fa993f6995f9086d45cff7c009/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e70386fa993f6995f9086d45cff7c009/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5d31810c0aa21a08146b021e5a33c008/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/5d31810c0aa21a08146b021e5a33c008/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e3d16ee3d10cdbd06a2d535942a27e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e3d16ee3d10cdbd06a2d535942a27e72/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0b5e6cbf589e1e6d5bb7a7fc3b6736d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/0b5e6cbf589e1e6d5bb7a7fc3b6736d8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c3fc78f2b4ace9b0d71147ac4483e4ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/c3fc78f2b4ace9b0d71147ac4483e4ca/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/97f5044f2e7ba3a36fd19726abee0f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/97f5044f2e7ba3a36fd19726abee0f05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2c8edd943a40f40689552d37365e432e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/2c8edd943a40f40689552d37365e432e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/32b42eb4b895dcb5dbcb8c9d5b705ad4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/32b42eb4b895dcb5dbcb8c9d5b705ad4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4514ee6d378ba0a0a6e8cb66f7f8df75/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4514ee6d378ba0a0a6e8cb66f7f8df75/AndroidManifest.xml:5:5-44
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/66078d1fe2243e0cc83910c0c43dbf17/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:4:9-133
+	android:value
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:4:77-131
+	android:name
+		ADDED from /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/debug/AndroidManifest.xml:4:20-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:11:5-98
+	android:name
+		ADDED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:11:22-95
+meta-data#com.google.android.gms.version
+ADDED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/b8a51d4438ee8a9efdc8607b0e37ca96/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [ti:playservices:17.1.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/dee0943ff6cf4f3d09cf93ab550f084a/AndroidManifest.xml:15:13-58
+activity#org.appcelerator.titanium.TiActivity
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:10:9-12:197
+	android:configChanges
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:12:13-194
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:11:13-64
+activity#org.appcelerator.titanium.TiTranslucentActivity
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:13:9-16:65
+	android:configChanges
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:15:13-194
+	android:theme
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:16:13-62
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:14:13-75
+activity#ti.modules.titanium.media.TiCameraActivity
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:17:9-20:88
+	android:configChanges
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:19:13-194
+	android:theme
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:20:13-85
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:18:13-70
+activity#ti.modules.titanium.media.TiVideoActivity
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:21:9-24:65
+	android:configChanges
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:23:13-194
+	android:theme
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:24:13-62
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:22:13-69
+activity#ti.modules.titanium.ui.android.TiPreferencesActivity
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:25:9-89
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:25:19-86
+provider#org.appcelerator.titanium.io.TiFileProvider
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:27:9-31:50
+	android:grantUriPermissions
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:31:13-47
+	android:authorities
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:29:13-66
+	android:exported
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:28:13-71
+service#com.appcelerator.aps.APSAnalyticsService
+ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:33:9-36:72
+	android:exported
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:35:13-37
+	android:permission
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:36:13-69
+	android:name
+		ADDED from [org.appcelerator:titanium:9.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/cf14eca0eba104eb9c2b9a32ac595021/AndroidManifest.xml:34:13-68
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/e96cf2f91b76166e3fefb151cc390551/AndroidManifest.xml:24:13-79
+activity#com.facebook.ads.AudienceNetworkActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:15:9-19:75
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:18:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:17:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:19:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:16:13-68
+activity#com.facebook.ads.internal.ipc.RemoteANActivity
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:20:9-25:75
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:24:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:23:13-37
+	android:configChanges
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:22:13-74
+	android:theme
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:25:13-72
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:21:13-74
+service#com.facebook.ads.internal.ipc.AdsProcessPriorityService
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:27:9-29:40
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:28:13-83
+service#com.facebook.ads.internal.ipc.AdsMessengerService
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:30:9-33:39
+	android:process
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:33:13-36
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:31:13-77
+provider#com.facebook.ads.AudienceNetworkContentProvider
+ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:35:9-38:40
+	android:authorities
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:37:13-82
+	android:exported
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.facebook.android:audience-network-sdk:5.6.1] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/6994777dcedd339a872375e735a4ee08/AndroidManifest.xml:36:13-75
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:18.3.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/4823ed5bcbb5e95c2cdfddf4136b889b/AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:17.1.0] /Users/vgoyal/.gradle/caches/transforms-2/files-2.1/39ee1aa313f3de67368d67182174b219/AndroidManifest.xml:25:22-65

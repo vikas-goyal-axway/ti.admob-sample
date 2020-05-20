@@ -1,0 +1,276 @@
+
+5/20/2020, 11:15:27 AM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.15.4
+  Architecture                = 64bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 12.5.0
+  npm Version                 = 6.13.7
+
+Titanium CLI
+  CLI Version                 = 5.2.2
+
+Titanium SDK
+  SDK Version                 = 9.1.0.v20200219062647
+  SDK Path                    = /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647
+  Target Platform             = iphone
+
+Command
+  /usr/local/Cellar/node/12.5.0/bin/node /Users/vgoyal/.appcelerator/install/8.0.0/package/node_modules/titanium/lib/titanium.js build --platform ios --log-level info --project-dir /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob --target simulator --device-id 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E --skip-js-minify --source-maps --deploy-type development --no-prompt --config-file /var/folders/wp/3s2y1zg17p94jljztn5ht1g1krg4br/T/build-1589953524035.json --no-banner --project-dir /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob
+
+[TRACE]  [ioslib] Validating iOS Simulator UDID 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E
+[TRACE]  [ioslib] Found iOS Simulator UDID 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 11 Pro Max
+[TRACE]  [ioslib]   UDID    = 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E
+[TRACE]  [ioslib]   iOS     = 13.3
+[TRACE]  [ioslib] Autoselected Xcode: 11.3.1
+[DEBUG]  Detecting modules in /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/node_modules
+[DEBUG]  Detecting modules in /Users/vgoyal/Library/Application Support/Titanium/modules
+[DEBUG]  Detected android module: com.appcelerator.aca 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/com.appcelerator.aca/2.0.0
+[DEBUG]  Detected android module: ti.cloudpush 6.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.cloudpush/6.0.1
+[DEBUG]  Detected android module: facebook 8.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/facebook/8.0.0
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detected android module: facebook 9.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/facebook/9.0.0
+[DEBUG]  Detected android module: hyperloop 5.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.0
+[DEBUG]  Detected android module: ti.admob 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.admob/5.0.1
+[DEBUG]  Detected android module: ti.cloudpush 7.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.cloudpush/7.0.0
+[DEBUG]  Detected android module: hyperloop 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.1
+[DEBUG]  Detected android module: hyperloop 5.0.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.3
+[DEBUG]  Detected android module: ti.playservices 16.1.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/16.1.3
+[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
+[DEBUG]  Detected android module: hyperloop 4.0.4 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/4.0.4
+[DEBUG]  Detected android module: ti.map 4.5.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.map/4.5.0
+[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
+[DEBUG]  Detected android module: ti.playservices 17.1.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
+[DEBUG]  Detected android module: ti.identity 3.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.identity/3.0.1
+[DEBUG]  Detected android module: ti.webdialog 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.webdialog/1.1.0
+[DEBUG]  Detected android module: ti.webdialog 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.webdialog/2.0.0
+[DEBUG]  Detected ios module: facebook 7.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/facebook/7.0.0
+[DEBUG]  Detected ios module: facebook 7.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/facebook/7.0.1
+[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.2.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.2.0
+[DEBUG]  Detected ios module: hyperloop 4.0.4 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4
+[DEBUG]  Detected ios module: hyperloop 5.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.0
+[DEBUG]  Detected ios module: hyperloop 5.0.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.3
+[DEBUG]  Detected ios module: com.appcelerator.aca 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.aca/2.0.0
+[DEBUG]  Detected ios module: ti.applesignin 1.1.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.applesignin/1.1.1
+[DEBUG]  Detected ios module: ti.admob 3.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0
+[DEBUG]  Detected ios module: ti.identity 1.0.6 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.6
+[DEBUG]  Detected ios module: ti.coremotion 2.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.1.0
+[DEBUG]  Detected ios module: ti.coremotion 2.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
+[DEBUG]  Detected ios module: ti.identity 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.identity/1.1.0
+[DEBUG]  Detected ios module: ti.admob 2.5.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/2.5.0
+[DEBUG]  Detected ios module: ti.webdialog 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.webdialog/1.1.0
+[DEBUG]  Detected ios module: hyperloop 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.1
+[DEBUG]  Detected ios module: ti.map 3.3.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.map/3.3.0
+[DEBUG]  Looking for Titanium module id=ti.admob version=3.0.0 platform=ios deploy-type=development
+[INFO]   Found Titanium module id=ti.admob version=3.0.0 platform=ios deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0
+[DEBUG]  Looking for Titanium module id=com.appcelerator.aca version=latest platform=ios deploy-type=development
+[INFO]   Found Titanium module id=com.appcelerator.aca version=2.0.0 platform=ios deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.aca/2.0.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=development
+[INFO]   Found Titanium module id=ti.cloud version=3.2.11 platform=commonjs deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK iOS directory: /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/iphone
+[INFO]   Deploy type: development
+[INFO]   Building for target: simulator
+[INFO]   Building using iOS SDK: 13.2.2
+[INFO]   Building for iOS Simulator: iPhone 11 Pro Max
+[DEBUG]  UDID: 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E
+[DEBUG]  Simulator type: iphone
+[DEBUG]  Simulator version: 13.3
+[INFO]   Building for device family: universal
+[DEBUG]  Setting Xcode target to Debug
+[DEBUG]  Setting Xcode build OS to iphonesimulator
+[DEBUG]  Xcode installation: /Applications/Xcode.app/Contents/Developer
+[DEBUG]  iOS WWDR certificate: installed
+[INFO]   Team ID: n/a
+[INFO]   Minimum iOS version: 10.0
+[INFO]   Logging disabled
+[INFO]   Debugging disabled
+[INFO]   Profiler disabled
+[INFO]   Set to copy files instead of symlinking
+[INFO]   Transpile javascript: true
+[INFO]   Generate source maps: true
+[INFO]   Initializing the build directory
+[TRACE]  Starting third-party framework detection
+[TRACE]  Scanning /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0/Resources for frameworks
+[TRACE]  Scanning /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.aca/2.0.0 for frameworks
+[TRACE]  Scanning /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0/platform for frameworks
+[TRACE]    found GoogleAppMeasurement.framework
+[TRACE]    found GoogleMobileAds.framework
+[TRACE]    found GoogleUtilities.framework
+[TRACE]    found PersonalizedAdConsent.framework
+[TRACE]    found nanopb.framework
+[TRACE]  Scanning /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0 for frameworks
+[TRACE]    found TiAdmob.framework
+[TRACE]  Scanning /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11 for frameworks
+[TRACE]  ti:inspectFrameworks: Setting initial task state to "created"
+[TRACE]  ti:inspectFrameworks: Starting task
+[TRACE]  ti:inspectFrameworks: Changing task state from "created" to "running"
+[TRACE]  ti:inspectFrameworks: Nothing changed, skip task run
+[TRACE]  ti:inspectFrameworks: Running post task run function
+[TRACE]  ti:inspectFrameworks: Changing task state from "running" to "finished"
+[TRACE]  ti:inspectFrameworks: Finished task in 0s 8.277ms
+[TRACE]  offline build file /var/folders/wp/3s2y1zg17p94jljztn5ht1g1krg4br/T/build-447d4743a1f6e3dda933ae545a1ff7c9c7bf0a46.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 2388.035 sec ago
+[INFO]   Creating Xcode project
+[TRACE]  Removing pre-compile phase
+[TRACE]  Adding 2 native module libraries
+[TRACE]  No extensions to add
+[TRACE]  Integrating dynamic framework TiAdmob into Xcode project.
+[TRACE]  Integrating static framework GoogleAppMeasurement into Xcode project.
+[TRACE]  Integrating static framework nanopb into Xcode project.
+[TRACE]  Integrating static framework GoogleMobileAds into Xcode project.
+[TRACE]  Integrating static framework GoogleUtilities into Xcode project.
+[TRACE]  Integrating static framework PersonalizedAdConsent into Xcode project.
+[TRACE]  Framework with fat binary present, integrating script to strip invalid architectures.
+[TRACE]  Using bundled script at /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/iphone/templates/build/strip-frameworks.sh
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/sample-admob.xcodeproj/project.pbxproj
+[INFO]   Creating Entitlements.plist
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/sample-admob.entitlements
+[INFO]   Creating Info.plist
+[INFO]   Disabling ATS
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Info.plist
+[INFO]   Creating main.m
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/main.m
+[INFO]   Creating Xcode config files
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/project.xcconfig
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/module.xcconfig
+[INFO]   Copying Titanium libraries
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/lib/libtiverify.a
+[INFO]   Copying Titanium iOS files
+[TRACE]  Skipping Classes/ApplicationRouting.m, it'll be processed later
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/sample_admob_Prefix.pch
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/sample-admob.xcodeproj/xcshareddata/xcschemes/sample_admob.xcscheme
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/sample-admob.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+[INFO]   Installing default LaunchScreen.storyboard
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/LaunchScreen.storyboard
+[INFO]   Creating debugger and profiler plists
+[DEBUG]  Skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/debugger.plist
+[DEBUG]  Skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/profiler.plist
+[INFO]   Analyzing Resources directory
+[INFO]   Analyzing platform files
+[INFO]   Analyzing module files
+[INFO]   Analyzing localized launch images
+[INFO]   Analyzing CommonJS modules
+[INFO]   Analyzing CommonJS module: ti.cloud
+[INFO]   Creating asset catalog
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/Contents.json
+[INFO]   Creating app icon set
+[TRACE]  Found generated 29x29 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small.png
+[TRACE]  Found generated 58x58 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@2x.png
+[TRACE]  Found generated 87x87 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small@3x.png
+[TRACE]  Found generated 40x40 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40.png
+[TRACE]  Found generated 80x80 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@2x.png
+[TRACE]  Found generated 120x120 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Small-40@3x.png
+[TRACE]  Found generated 120x120 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@2x.png
+[TRACE]  Found generated 180x180 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-60@3x.png
+[TRACE]  Found generated 76x76 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76.png
+[TRACE]  Found generated 152x152 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-76@2x.png
+[TRACE]  Found generated 167x167 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-83.5@2x.png
+[TRACE]  Found generated 1024x1024 app icon: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/appicon-Marketing.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/AppIcon.appiconset/Contents.json
+[INFO]   Creating launch logo image set
+[TRACE]  Found generated 320x320 launch logo: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~iphone.png
+[TRACE]  Found generated 374x374 launch logo: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~iphone.png
+[TRACE]  Found generated 621x621 launch logo: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@3x~iphone.png
+[TRACE]  Found generated 384x384 launch logo: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo~ipad.png
+[TRACE]  Found generated 1024x1024 launch logo: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/LaunchLogo@2x~ipad.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchLogo.imageset/Contents.json
+[INFO]   Creating launch image set
+[DEBUG]  Unsupported launch image Resources/iphone/Default.png, skipping
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Contents.json
+[INFO]   Creating assets image set
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab1.imageset/Contents.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab2.imageset/Contents.json
+[DEBUG]  Skipping colorset generation as "semantic.colors.json" file does not exist
+[DEBUG]  Copying resources
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/PersonalizedAdConsent.bundle/consentform.html
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/ti.cloud/LICENSE
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/ti.cloud/manifest
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/ti.cloud/package.json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-1792h@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2436h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-2688h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape-736h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-1792h@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2436h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-2688h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait-736h@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/LaunchImage.launchimage/Default@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab1.imageset/tab1.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab1.imageset/tab1@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab1.imageset/tab1@3x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab2.imageset/tab2.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab2.imageset/tab2@2x.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Assets.xcassets/assets/images/tab2.imageset/tab2@3x.png
+[DEBUG]  Copying CSS files
+[INFO]   Processing JavaScript files
+[TRACE]  process-js: Setting initial task state to "created"
+[TRACE]  process-js: Starting task
+[TRACE]  process-js: Changing task state from "created" to "running"
+[INFO]   Writing app properties
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/_app_props_.json
+[DEBUG]  Writing ENV variables
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/_env_.json
+[TRACE]  process-js: Input files changed, do incremental task run
+[DEBUG]  process-js: Copying and minifying /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/banner.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/banner.js
+[TRACE]  process-js: Changing task state from "running" to "finished"
+[TRACE]  process-js: Finished task in 0s 80.773ms
+[INFO]   Writing bootstrap json
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/ti.internal/bootstrap.json
+[DEBUG]  Using default application routing
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Classes/ApplicationRouting.m
+[INFO]   Writing i18n files
+[DEBUG]  No i18n files to process
+[INFO]   Processing Titanium symbols
+[DEBUG]  Processing Titanium namespace resources
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/modules/ui/images/badge.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/modules/ui/images/closeButton.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/build/Products/Debug-iphonesimulator/sample-admob.app/modules/ui/images/photoDefault.png
+[TRACE]  No change, skipping /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/iphone/Classes/defines.h
+[INFO]   Removing files
+[DEBUG]  Removing empty directories
+[INFO]   Writing index.json with listing of JS/JSON files
+[INFO]   Skipping xcodebuild
+[INFO]   Finished building the application in 538ms
+[INFO]   Launching iOS Simulator
+[TRACE]  [ioslib] Selected iOS Simulator: iPhone 11 Pro Max
+[TRACE]  [ioslib]   UDID    = 029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E
+[TRACE]  [ioslib]   iOS     = 13.3
+[TRACE]  [ioslib] Autoselected Xcode: 11.3.1
+[TRACE]  [ioslib] Removing old log file: /Users/vgoyal/Library/Developer/CoreSimulator/Devices/029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E/data/Containers/Data/Application/EB80E1CE-0FCF-46C1-93CB-0E6D63CFCF5A/Documents/1dc7f732-352d-426d-9ccc-b01ad8949b95.log
+[TRACE]  [ioslib] Checking if the simulator /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator is already running
+[TRACE]  [ioslib] Simulator is running (pid 37065)
+[TRACE]  [ioslib] Waiting for simulator to boot...
+[TRACE]  [ioslib] Simulator is booted!
+[TRACE]  [ioslib] iPhone 11 Pro Max Simulator already running with the correct UDID
+[TRACE]  [ioslib] Tailing iPhone 11 Pro Max Simulator system log: /Users/vgoyal/Library/Logs/CoreSimulator/029AF3B4-3BE3-40A2-8C7D-4F3D7EEA560E/system.log
+[TRACE]  [ioslib] Running: osascript "/Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/node_modules/ioslib/lib/sim_focus.scpt" "Simulator"
+[TRACE]  [ioslib] iPhone 11 Pro Max Simulator successfully focused
+[TRACE]  [ioslib] Installing the app
+[TRACE]  [ioslib] App launched

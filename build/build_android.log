@@ -1,0 +1,232 @@
+
+5/20/2020, 10:39:37 AM
+
+Operating System
+  Name                        = Mac OS X
+  Version                     = 10.15.4
+  Architecture                = 64bit
+  # CPUs                      = 8
+  Memory                      = 17179869184
+
+Node.js
+  Node.js Version             = 12.5.0
+  npm Version                 = 6.13.7
+
+Titanium CLI
+  CLI Version                 = 5.2.2
+
+Titanium SDK
+  SDK Version                 = 9.1.0.v20200219062647
+  SDK Path                    = /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647
+  Target Platform             = android
+
+Command
+  /usr/local/Cellar/node/12.5.0/bin/node /Users/vgoyal/.appcelerator/install/8.0.0/package/node_modules/titanium/lib/titanium.js build --platform android --log-level info --project-dir /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob --target emulator --device-id Pixel_2_XL_API_29 --debug-host /localhost:9000 --skip-js-minify --deploy-type development --no-prompt --config-file /var/folders/wp/3s2y1zg17p94jljztn5ht1g1krg4br/T/build-1589951374892.json --no-banner --project-dir /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob
+
+[DEBUG]  Detecting modules in /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/node_modules
+[DEBUG]  Detecting modules in /Users/vgoyal/Library/Application Support/Titanium/modules
+[DEBUG]  Detected commonjs module: ti.cloud 3.2.11 @ /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detected ios module: com.appcelerator.aca 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.aca/2.0.0
+[DEBUG]  Detected ios module: com.appcelerator.urlSession 2.2.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/com.appcelerator.urlSession/2.2.0
+[DEBUG]  Detected ios module: facebook 7.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/facebook/7.0.0
+[DEBUG]  Detected ios module: facebook 7.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/facebook/7.0.1
+[DEBUG]  Detected ios module: hyperloop 5.0.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.3
+[DEBUG]  Detected ios module: ti.admob 2.5.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/2.5.0
+[DEBUG]  Detected ios module: hyperloop 4.0.4 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/4.0.4
+[DEBUG]  Detected ios module: ti.admob 3.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.admob/3.0.0
+[DEBUG]  Detected ios module: ti.identity 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.identity/1.1.0
+[DEBUG]  Detected ios module: hyperloop 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.1
+[DEBUG]  Detected ios module: ti.identity 1.0.6 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.identity/1.0.6
+[DEBUG]  Detected ios module: hyperloop 5.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/hyperloop/5.0.0
+[DEBUG]  Detected ios module: ti.map 3.3.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.map/3.3.0
+[DEBUG]  Detected ios module: ti.applesignin 1.1.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.applesignin/1.1.1
+[DEBUG]  Detected ios module: ti.coremotion 2.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.0.1
+[DEBUG]  Detected ios module: ti.coremotion 2.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.coremotion/2.1.0
+[DEBUG]  Detected ios module: ti.webdialog 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/iphone/ti.webdialog/1.1.0
+[DEBUG]  Detected android module: com.appcelerator.aca 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/com.appcelerator.aca/2.0.0
+[DEBUG]  Detected android module: ti.identity 2.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.identity/2.1.0
+[DEBUG]  Detected android module: ti.identity 3.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.identity/3.0.1
+[DEBUG]  Detected android module: facebook 8.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/facebook/8.0.0
+[DEBUG]  Detected android module: hyperloop 4.0.4 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/4.0.4
+[DEBUG]  Detected android module: ti.admob 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.admob/5.0.1
+[DEBUG]  Detected android module: facebook 9.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/facebook/9.0.0
+[DEBUG]  Detected android module: ti.cloudpush 7.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.cloudpush/7.0.0
+[DEBUG]  Detected android module: hyperloop 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.1
+[DEBUG]  Detected android module: hyperloop 5.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.0
+[DEBUG]  Detected android module: hyperloop 5.0.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/hyperloop/5.0.3
+[DEBUG]  Detected android module: ti.cloudpush 6.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.cloudpush/6.0.1
+[DEBUG]  Detected android module: ti.playservices 16.1.3 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/16.1.3
+[DEBUG]  Detected android module: ti.map 5.0.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.map/5.0.1
+[DEBUG]  Detected android module: ti.map 4.5.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.map/4.5.0
+[DEBUG]  Detected android module: ti.playservices 17.1.1 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
+[DEBUG]  Detected android module: ti.webdialog 2.0.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.webdialog/2.0.0
+[DEBUG]  Detected android module: ti.webdialog 1.1.0 @ /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.webdialog/1.1.0
+[DEBUG]  Looking for Titanium module id=ti.admob version=5.0.1 platform=android deploy-type=development
+[INFO]   Found Titanium module id=ti.admob version=5.0.1 platform=android deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.admob/5.0.1
+[DEBUG]  Looking for Titanium module id=com.appcelerator.aca version=latest platform=android deploy-type=development
+[INFO]   Found Titanium module id=com.appcelerator.aca version=2.0.0 platform=android deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/android/com.appcelerator.aca/2.0.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=development
+[INFO]   Found Titanium module id=ti.cloud version=3.2.11 platform=commonjs deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Detecting modules in /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/node_modules
+[DEBUG]  Looking for Titanium module id=ti.admob version=5.0.1 platform=android deploy-type=development
+[INFO]   Found Titanium module id=ti.admob version=5.0.1 platform=android deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.admob/5.0.1
+[DEBUG]  Looking for Titanium module id=com.appcelerator.aca version=latest platform=android deploy-type=development
+[INFO]   Found Titanium module id=com.appcelerator.aca version=2.0.0 platform=android deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/android/com.appcelerator.aca/2.0.0
+[DEBUG]  Looking for Titanium module id=ti.cloud version=latest platform=commonjs deploy-type=development
+[INFO]   Found Titanium module id=ti.cloud version=3.2.11 platform=commonjs deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Looking for Titanium module id=ti.playservices version=latest platform=android deploy-type=development
+[INFO]   Found Titanium module id=ti.playservices version=17.1.1 platform=android deploy-type=development path=/Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1
+[DEBUG]  No project level plugins to load
+[TRACE]  Snapshotting build directory
+[DEBUG]  Titanium SDK Android directory: /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android
+[INFO]   Deploy type: development
+[INFO]   Building for target: emulator
+[INFO]   Building for emulator: Pixel_2_XL_API_29
+[INFO]   Targeting Android SDK API: 29
+[INFO]   Building for the following architectures: arm64-v8a, armeabi-v7a, x86, x86_64
+[INFO]   Signing with keystore: /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android/dev_keystore (tidev)
+[DEBUG]  App ID: sample.admob
+[DEBUG]  Classname: SampleAdmob
+[INFO]   Debugging enabled via debug port: 9000
+[INFO]   Profiler disabled
+[INFO]   Transpile javascript: true
+[INFO]   Generate source maps: true
+[INFO]   Launching emulator: Pixel_2_XL_API_29
+[TRACE]  Starting emulator: Pixel_2_XL_API_29
+[TRACE]  Checking if emulator Pixel_2_XL_API_29 is running...
+[TRACE]  Detecting if Pixel_2_XL_API_29 exists...
+[TRACE]  Found 1 emulators
+[TRACE]  Emulator exists, detecting all running emulators and connected devices...
+[TRACE]  Detected 1 running emulators and connected devices
+[TRACE]  Checking 1 devices to see if it's the emulator we want
+[TRACE]  The emulator is running
+[INFO]   Emulator already running
+[TRACE]  Checking the boot state for the next 240000 ms
+[TRACE]  Waiting for emulator to register with ADB
+[TRACE]  Emulator process started
+[TRACE]  offline build file /var/folders/wp/3s2y1zg17p94jljztn5ht1g1krg4br/T/build-447d4743a1f6e3dda933ae545a1ff7c9c7bf0a46.json
+[TRACE]  online 1
+[TRACE]  optimizing build, last build was 238.084 sec ago
+[INFO]   Processing libraries
+[INFO]   Generating root project files
+[TRACE]  Found 1 devices, checking if any of them are the emulator...
+[TRACE]  Emulator is running!
+[TRACE]  Checking if boot animation has finished...
+[INFO]   Generating gradle project: app
+[INFO]   Copying resource files
+[DEBUG]  Copying /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/common/Resources/android
+[DEBUG]  Copying /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources
+[DEBUG]  Ignoring /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab1.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab1.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab1@2x.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab1@2x.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab1@3x.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab1@3x.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab2.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab2.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab2@2x.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab2@2x.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/assets/images/tab2@3x.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/assets/images/tab2@3x.png
+[DEBUG]  Ignoring /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/iphone
+[DEBUG]  Copying /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/appicon.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/appicon.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-hdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-hdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-ldpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-ldpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-mdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-mdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-xhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-xhdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-xxhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-xxhdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-land-xxxhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-land-xxxhdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-hdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-hdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-ldpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-ldpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-mdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-mdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-xhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-xhdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-xxhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-xxhdpi/background.png
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/android/images/res-port-xxxhdpi/default.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable-port-xxxhdpi/background.png
+[DEBUG]  Copying /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11
+[DEBUG]  Symlinking /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11/LICENSE => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.cloud/LICENSE
+[DEBUG]  Ignoring /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11/documentation
+[DEBUG]  Ignoring /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11/example
+[DEBUG]  Symlinking /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11/manifest => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.cloud/manifest
+[DEBUG]  Symlinking /Users/vgoyal/Library/Application Support/Titanium/modules/commonjs/ti.cloud/3.2.11/package.json => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.cloud/package.json
+[DEBUG]  Copying /Users/vgoyal/Library/Application Support/Titanium/modules/android/ti.playservices/17.1.1/Resources
+[INFO]   Processing JavaScript files
+[TRACE]  process-js: Setting initial task state to "created"
+[TRACE]  process-js: Starting task
+[TRACE]  process-js: Changing task state from "created" to "running"
+[TRACE]  process-js: Input files changed, do incremental task run
+[DEBUG]  process-js: Copying and minifying /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/Resources/app.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/app.js
+[TRACE]  Emulator is booted, emitting booted event
+[INFO]   Emulator is booted
+[INFO]   SD card not required, skipping mount check
+[INFO]   Emulator ready!
+[TRACE]  process-js: Changing task state from "running" to "finished"
+[TRACE]  process-js: Finished task in 0s 80.689ms
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/ti.main.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.main.js
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/app.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/app.js
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/ti.cloud/ti.cloud.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.cloud/ti.cloud.js
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/ti.playservices/ti.playservices.bootstrap.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.bootstrap.js
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/assets/ti.playservices/ti.playservices.js => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/ti.playservices/ti.playservices.js
+[DEBUG]  Symlinking /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/assets/Resources/appicon.png => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/drawable/appicon.png
+[INFO]   Generating import/require index file
+[INFO]   Generating Java files
+[INFO]   Generating i18n files
+[DEBUG]  Writing en strings => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/values/ti_i18n_strings.xml
+[INFO]   Generating theme file: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/res/values/ti_styles.xml
+[DEBUG]  Copying template /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android/templates/build/AppInfo.java => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/java/sample/admob/SampleAdmobAppInfo.java
+[DEBUG]  Copying template /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android/templates/build/App.java => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/java/sample/admob/SampleAdmobApplication.java
+[DEBUG]  Copying template /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android/templates/build/Activity.java => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/src/main/java/sample/admob/SampleAdmobActivity.java
+[DEBUG]  Copying /Users/vgoyal/Library/Application Support/Titanium/mobilesdk/osx/9.1.0.v20200219062647/android/templates/build/gitignore => /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/.gitignore
+[INFO]   Generating main "AndroidManifest.xml" files
+[INFO]   Building app
+[INFO]   [GRADLE] Starting a Gradle Daemon (subsequent builds will be faster)
+[INFO]   [GRADLE] > Task :app:preBuild UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:preDebugBuild UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:compileDebugAidl NO-SOURCE
+[INFO]   [GRADLE] > Task :app:checkDebugManifest UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:compileDebugRenderscript NO-SOURCE
+[INFO]   [GRADLE] > Task :app:generateDebugBuildConfig UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:prepareLintJar UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugSources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:javaPreCompileDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mainApkListPersistenceDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugResValues UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugResources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugResources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:processDebugManifest UP-TO-DATE
+[INFO]   [GRADLE] 
+[INFO]   [GRADLE] > Task :app:processDebugResources UP-TO-DATE
+[INFO]   [GRADLE] Changing the value for a property with a final value has been deprecated. This will fail with an error in Gradle 6.0.
+[INFO]   [GRADLE] 
+[INFO]   [GRADLE] > Task :app:compileDebugJavaWithJavac UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:compileDebugSources UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugShaders UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:compileDebugShaders UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:generateDebugAssets UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugAssets
+[INFO]   [GRADLE] > Task :app:validateSigningDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:signingConfigWriterDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:transformClassesWithDexBuilderForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:transformClassesWithMultidexlistForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:transformDexArchiveWithDexMergerForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:transformNativeLibsWithMergeJniLibsForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:transformNativeLibsWithStripDebugSymbolForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:processDebugJavaRes NO-SOURCE
+[INFO]   [GRADLE] > Task :app:transformResourcesWithMergeJavaResForDebug UP-TO-DATE
+[INFO]   [GRADLE] > Task :app:packageDebug
+[INFO]   [GRADLE] > Task :app:assembleDebug
+[INFO]   [GRADLE] 
+[INFO]   [GRADLE] BUILD SUCCESSFUL in 14s
+[INFO]   [GRADLE] 26 actionable tasks: 2 executed, 24 up-to-date
+[INFO]   Writing build manifest: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/build-manifest.json
+[INFO]   Making sure the adb server is running
+[INFO]   Installing apk: /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/build/outputs/apk/debug/app-debug.apk
+[TRACE]  Checking if package manager service is started
+[TRACE]  Package manager has started
+[TRACE]  Executing: /Users/vgoyal/Library/Android/sdk/platform-tools/adb -s emulator-5554 install -r -d /Users/vgoyal/Desktop/WorkSpace/Appcelerator/Samples/sample-admob/build/android/app/build/outputs/apk/debug/app-debug.apk
+[INFO]   App successfully installed
+[INFO]   Starting app: sample.admob/.SampleAdmobActivity
+[DEBUG]  Trying to start the app...
+[INFO]   Application pid: 9704
+-- Start application log -----------------------------------------------------
+[INFO]   Forwarding host port 9000 to device for debugging
+[INFO]   Project built successfully in 19s 498ms
